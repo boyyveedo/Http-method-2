@@ -1,0 +1,16 @@
+{
+  "name": "http-methods",
+  "version": "1.0.0",
+  "description": "A sever to handle CRUD responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "author": "Glory Edem",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

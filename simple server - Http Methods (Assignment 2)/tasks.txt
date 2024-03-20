@@ -1,0 +1,8 @@
+Simple Sever - HTTPS Methods
+
+- GET/books
+- PUT/books
+- DELETE/books
+- GET/books/author
+- PUT/books/author
+- POST/books/author
